@@ -1,0 +1,69 @@
+contexts:
+  default:
+    defaultIde: vscode-insiders
+    defaultProvider: docker
+    options:
+      SSH_INJECT_DOCKER_CREDENTIALS:
+        userProvided: true
+        value: "true"
+      SSH_INJECT_GIT_CREDENTIALS:
+        userProvided: true
+        value: "true"
+    providers:
+      azure:
+        creationTimestamp: "2025-04-16T19:03:50Z"
+        initialized: true
+        options:
+          AGENT_PATH:
+            userProvided: true
+            value: /var/lib/toolbox/devpod
+          AZURE_CUSTOM_DATA:
+            userProvided: true
+          AZURE_DISK_SIZE:
+            userProvided: true
+            value: "40"
+          AZURE_DISK_TYPE:
+            userProvided: true
+            value: StandardSSD_LRS
+          AZURE_IMAGE:
+            userProvided: true
+            value: Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:latest
+          AZURE_INSTANCE_SIZE:
+            userProvided: true
+            value: Standard_B1s
+          AZURE_REGION:
+            userProvided: true
+            value: uksouth
+          AZURE_RESOURCE_GROUP:
+            userProvided: true
+            value: nslvm
+          AZURE_SUBSCRIPTION_ID:
+            userProvided: true
+            value: 5bef15ed-b15c-4ab0-a2d4-54bf5b2f10e2
+          AZURE_TAGS:
+            userProvided: true
+          INACTIVITY_TIMEOUT:
+            userProvided: true
+            value: 10m
+          INJECT_DOCKER_CREDENTIALS:
+            userProvided: true
+            value: "true"
+          INJECT_GIT_CREDENTIALS:
+            userProvided: true
+            value: "true"
+        singleMachine: true
+      docker:
+        creationTimestamp: "2025-04-16T17:56:20Z"
+        initialized: true
+        options:
+          DOCKER_BUILDER:
+            userProvided: true
+          DOCKER_HOST:
+            userProvided: true
+          DOCKER_PATH:
+            userProvided: true
+            value: docker
+          INACTIVITY_TIMEOUT:
+            userProvided: true
+        singleMachine: true
+defaultContext: default
