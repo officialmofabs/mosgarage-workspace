@@ -16,7 +16,7 @@ contexts:
         options:
           AGENT_PATH:
             userProvided: true
-            value: /var/lib/toolbox/devpod
+            value: /var/lib/toolbox/mosgarage
           AZURE_CUSTOM_DATA:
             userProvided: true
           AZURE_DISK_SIZE:
