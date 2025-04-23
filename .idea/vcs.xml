@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Azure-Landing-Zones-Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Azurite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React-ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aws/quickstart-for-amazon-q" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dotnet-core-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/localdns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/puter" vcs="Git" />
+  </component>
+</project>

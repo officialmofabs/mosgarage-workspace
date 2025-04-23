@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cmake/Tests/CoberturaCoverage/CoberturaCoverage.iml" filepath="$PROJECT_DIR$/cmake/Tests/CoberturaCoverage/CoberturaCoverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmake/Tests/FindJNI/FindJNI.iml" filepath="$PROJECT_DIR$/cmake/Tests/FindJNI/FindJNI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mosgarage-workspace.iml" filepath="$PROJECT_DIR$/.idea/mosgarage-workspace.iml" />
+    </modules>
+  </component>
+</project>

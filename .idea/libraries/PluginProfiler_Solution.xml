@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PluginProfiler.Solution">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tools/PluginRegistration/PluginProfiler.Solution.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
